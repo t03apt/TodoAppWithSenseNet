@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentMetaData>
+  <ContentType>Site</ContentType>
+  <ContentName>Default_Site</ContentName>
+  <Fields>
+    <UrlList>
+      <Url authType='Forms'>localhost</Url>
+      <Url authType='Forms'>todoappwebapi</Url>
+    </UrlList>
+  </Fields>
+</ContentMetaData>
