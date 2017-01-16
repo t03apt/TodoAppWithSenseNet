@@ -247,6 +247,7 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Code\TodoAppGlobal.cs" />
     <Compile Include="Code\WebApi\Controllers\HelloController.cs" />
     <Compile Include="Code\WebApi\Filters\GlobalExceptionFilterAttribute.cs" />
     <Compile Include="Code\WebApi\WebApiConfig.cs" />
