@@ -21,7 +21,9 @@
 9. Browse [http://todoappwebapi/api/hello]()
 
 ## 2. Set up WebUI site with reverse proxy
-1. Install [https://www.iis.net/downloads/microsoft/application-request-routing]()
+1. Install prerequisites
+    * [https://www.iis.net/downloads/microsoft/url-rewrite]()
+    * [https://www.iis.net/downloads/microsoft/application-request-routing]()
 2. Create an IIS site and app pool for WebUI project
     * name: TodoAppWeb
     * binding: todoAppWeb
