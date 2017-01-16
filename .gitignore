@@ -229,6 +229,5 @@ WebApi/Tools/*
 !WebApi/Tools/Import.exe*
 !WebApi/Tools/IndexPopulator.exe*
 !WebApi/Tools/SnAdminRuntime.exe*
-!WebApi/Admin/bin
-!WebApi/Admin/bin/*
+WebApi/Admin
 CoreReferences/*
