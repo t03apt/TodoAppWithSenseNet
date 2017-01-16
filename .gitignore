@@ -223,9 +223,12 @@ ModelManifest.xml
 npm-debug.log*
 .vs
 SenseNetSource/*
+!SenseNetSource/.gitignore
 App_Data/
 WebApi/Tools/*
 !WebApi/Tools/Import.exe*
 !WebApi/Tools/IndexPopulator.exe*
 !WebApi/Tools/SnAdminRuntime.exe*
+!WebApi/Admin/bin
+!WebApi/Admin/bin/*
 CoreReferences/*
